@@ -1,0 +1,20 @@
+[
+    {
+        "id_venta": 1,
+        "id_usuario": 2,
+        "nombre_usuario": "Cajero",
+        "id_producto": 2,
+        "nombre_producto": "Papas Fritas",
+        "cantidad": 2,
+        "fecha": "2026-09-27 08:47:44"
+    },
+    {
+        "id_venta": 2,
+        "id_usuario": 1,
+        "nombre_usuario": "Administrador",
+        "id_producto": 3,
+        "nombre_producto": "Refresco",
+        "cantidad": 2,
+        "fecha": "2026-09-27 08:48:07"
+    }
+]
